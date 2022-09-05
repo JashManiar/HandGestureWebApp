@@ -1,11 +1,8 @@
-head
-{
-  background-image: url("https://i.pinimg.com/736x/1a/64/87/1a64871292e27f8f7dd9265c42c5298e.jpg");
-}
-body
+
+head,body
 {
   color: white;
-  background: rgb(128, 54, 99);
+  background-image: url("https://i.pinimg.com/736x/1a/64/87/1a64871292e27f8f7dd9265c42c5298e.jpg");
 }
 span
 {
